@@ -12,3 +12,4 @@ Instagram Clone and its identical features
 ![Screenshot 2023-08-14 183938](https://github.com/garvita2003/Instagram-Clone/assets/102051676/f45d434c-1413-4709-81b2-9d2ac57b905a)
 ![Screenshot 2023-08-14 184012](https://github.com/garvita2003/Instagram-Clone/assets/102051676/603a1840-4c65-4ea8-b781-80373de8bcca)
 ![Screenshot 2023-08-14 184030](https://github.com/garvita2003/Instagram-Clone/assets/102051676/4dec2e36-a572-4d2d-ac35-d3688505cabf)
+![Screenshot 2023-08-14 184037](https://github.com/garvita2003/Instagram-Clone/assets/102051676/ade0b250-9ef8-45e7-9a01-bea2a5d29c8e)
