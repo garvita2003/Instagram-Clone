@@ -4,6 +4,7 @@ Instagram Clone and its identical features
 # Technology/Language Used
 1) HTML
 2) CSS
+3) BOOTSTRAP
 
 # Overview
 ![Screenshot 2023-08-14 183842](https://github.com/garvita2003/Instagram-Clone/assets/102051676/5793b228-2ca9-4cd6-b438-42a9d3c3e41c)
